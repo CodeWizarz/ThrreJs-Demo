@@ -25,11 +25,11 @@ npm run dev
 This will start a development server at http://localhost:5173 where you can view the project in your web browser.
 Features
 
-This project includes the following features:
+## This project includes the following features:
 
-    3D product viewer: allows users to interact with 3D models of products and view them from different angles.
-    E-commerce inspired UI: the project has a UI that is inspired by e-commerce websites, with a product description, price, and add to cart button.
-    Vite development server: uses Vite as the development server, which provides fast build times and hot module replacement.
+    ### 3D product viewer: allows users to interact with 3D models of products and view them from different angles.
+   ### E-commerce inspired UI: the project has a UI that is inspired by e-commerce websites, with a product description, price, and add to cart button.
+     ### Vite development server: uses Vite as the development server, which provides fast build times and hot module replacement.
 
 Technologies Used
 
